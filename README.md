@@ -1,4 +1,4 @@
-# daypilot-org
+# DayPilot
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,110 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-daypilot-org is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://daypilot.org/
+DayPilot provides HTML5 calendar, scheduler, and Gantt chart web components for building project management, resource planning, timeline visualization, and time‑tracking applications. With over 15 years of development, the components support JavaScript, TypeScript, React, Angular, and Vue, offering features like drag‑and‑drop, hierarchical resources, real‑time updates, and export to SVG/PNG. DayPilot also offers open‑source versions under the Apache License and commercial products for enterprise needs.
+
+**Areas:** Calendar · Scheduler · Gantt Chart · UI Components · Open Source
+
+## DayPilot on APIs.io
+
+Everything profiled for DayPilot is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/daypilot-org/](https://apis.io/providers/daypilot-org/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [DayPilot Discovery API](https://apis.io/apis/daypilot-org/daypilot-org-discovery-api/) — Anonymous, read-only Builder capability discovery.
+- [DayPilot Generation API](https://apis.io/apis/daypilot-org/daypilot-org-generation-api/) — Anonymous, stateless validation and direct project-archive generation. These POST operations deliberately grant no browser CORS permission.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Daypilot Org Agentic Access](https://apis.io/agentic-access/daypilot-org/daypilot-org-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Daypilot Org Context](https://apis.io/jsonld/daypilot-org/daypilot-org-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [DayPilot API Rules](https://apis.io/rules/daypilot-org/daypilot-org-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Daypilot Org Domain Security](https://apis.io/security/daypilot-org/daypilot-org-domain-security/)
+- [Daypilot Org Vulnerability Disclosure](https://apis.io/security/daypilot-org/daypilot-org-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://daypilot.org/)
+- [Documentation](https://doc.daypilot.org/)
+- [Getting started](https://mcp.daypilot.org/)
+- [Support](https://www.daypilot.org/support/)
+- [Security](https://www.daypilot.org/security/)
+- [Privacy policy](https://www.daypilot.org/legal/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 41.1** — developing · rubric 0.25.0 · scored 2026-11-05
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 44.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 49.3 |
+| Access clarity | 10.5 |
+
+**Agent readiness 35.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 20.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/daypilot-org/](https://apis.io/providers/daypilot-org/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for DayPilot: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/daypilot-org/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
